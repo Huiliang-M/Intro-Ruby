@@ -1,5 +1,5 @@
 
-#by Huiliang Huang
+#by Huiliang
 #LimitedSorted.rb
 
 class Array
