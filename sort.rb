@@ -1,5 +1,5 @@
-#HW5-4
-#by Huiliang Huang
+
+#by Huiliang 
 #sort.rb
 
 #def
