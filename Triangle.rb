@@ -1,5 +1,5 @@
-#HW7-5
-#by Huiliang Huang
+
+#by Huiliang
 #Triangle.rb
 
 class Triangle
