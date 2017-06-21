@@ -1,4 +1,4 @@
-#HW5-6
+
 #by Huiliang Huang
 #LimitedSorted.rb
 
