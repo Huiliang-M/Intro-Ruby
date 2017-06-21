@@ -1,5 +1,5 @@
-#HW5-
-#by Huiliang Huang
+
+#by Huiliang
 #MeanSigma.rb
 
 #Returns mean and standard deviation of numbers in array
