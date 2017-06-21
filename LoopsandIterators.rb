@@ -1,5 +1,5 @@
-#HW7-2
-#by Huiliang Huang
+
+#by Huiliang
 #LoopsandIterators.rb
 
 #loop-do
@@ -116,13 +116,4 @@ evens = (1..10).reject{|e| e%2 != 0}
 print evens
 puts
 puts "end!!"
-
-
-
-
-
-
-
-
-
 
